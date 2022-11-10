@@ -6,11 +6,11 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 ## Informazioni
 **Docente:** Stefano Alberto Russo
 
-**Aula ed orario:** Ancora da definire
+**Aula ed orario:** Martedì 11-13, Giovedì 13-15, aula Morin 2a.
 
 **Esame**: compito per casa con qualche giorno a disposizione e discussione all' orale
 
-**Aiuto:** La modalità principale è chiedere ai tutor. Alternativamente, potete anche scrivermi per fissare un'appuntamento come ricevimento studenti.
+**Aiuto:** La modalità principale è chiedere ai tutor. Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
 **Materiale:** Ci sono le dispense, che verranno pubblicate a breve, e ci sono le slides di lezione, che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) ed alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
