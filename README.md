@@ -16,21 +16,21 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
-N.A.
+ - 
 
 
 ## Lezioni e slides
 
-- **Lezione 1**: Introduzione e strumenti | [slides](slides/Lezione1.pdf)
+- **Lezione 1** (10/11/2022 h 13:00): Introduzione e strumenti | [slides](slides/Lezione1.pdf)
 
-- **Lezione 2**: Intro su Python: tipi dati, costrutti,
+- **Lezione 2** (15/11/2022 h 12:00): Intro su Python: tipi dati, costrutti,
 funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
 
-- **Lezione 3**: I dati: interagire con i file ed il formato CSV | [slides](slides/Lezione3.pdf) | [shampoo_sales.csv](files/shampoo_sales.csv) | [shampoo_sales.txt](files/shampoo_sales.txt)
+- **Lezione 3** (17/11/2022 h 13:00): I dati: interagire con i file ed il formato CSV | [slides](slides/Lezione3.pdf) | [shampoo_sales.csv](files/shampoo_sales.csv) | [shampoo_sales.txt](files/shampoo_sales.txt)
 
-- **Lezione 4**: Gli oggetti in Python | [slides](slides/Lezione4.pdf)
+- **Lezione 4** (22/11/2022 h 12:00): Gli oggetti in Python | [slides](slides/Lezione4.pdf)
 
-- **Lezione 5**: Le eccezioni ed il flusso try-except
+- **Lezione 5**): Le eccezioni ed il flusso try-except
  | [slides](slides/Lezione5.pdf)   
 
 - **Lezione 6**: Controllo degli input e sanitizzazione
@@ -45,14 +45,13 @@ funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
 - **Lezione 9**: Lavorare veramente 2: fittiamo un modello
  | [slides](slides/Lezione9.pdf)
 
-
 - **Lezione 10**: Lavorare veramente 3: valutiamo un modello
  | [slides](slides/Lezione10.pdf)
  
-- **Lezione 11**: prima esercitazione
+- **Lezione 11** (data da definire): prima esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub)
 
-- **Lezione 12**: seconda esercitazione
+- **Lezione 12** (data da definire): seconda esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vRt09wouXGP4ECVPbMIT7FGzzYAx6T37Pil8KG4pSMpcYQeHAl_b9x3rsax7jH0D3M8Ol9R05C8xY_3/pub)
 
 ## Modalità di esame
