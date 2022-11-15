@@ -4,7 +4,7 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 
 ## Informazioni
-**Docente:** Stefano Alberto Russo (stefanoalberto.russo@phd.units.it)
+**Docente:** Stefano Alberto Russo [stefanoalberto.russo@phd.units.it](stefanoalberto.russo@phd.units.it)
 
 **Aula ed orario:** Martedì 12-14, Giovedì 13-15, aula Morin 2a.
 
@@ -12,11 +12,11 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 **Aiuto:** La modalità principale è chiedere ai tutor: [lucrezia.valeriani@phd.units.it](lucrezia.valeriani@phd.units.it) e [valentina.blasone@phd.units.it](valentina.blasone@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
-**Materiale:** Ci sono le dispense, che verranno pubblicate a breve, e ci sono le slides di lezione, che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) ed alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
+**Materiale:** Ci sono le [dispense](files/DispenseLabProg.pdf) (ancora in versione bozza) e ci sono le slides di lezione, che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
 ## News
 
- - 
+ - **15/11/2022**: Aggiunte le [dispense](files/DispenseLabProg.pdf) in versione bozza (verranno man mano sistemate via per il corso)
 
 
 ## Lezioni e slides
