@@ -30,28 +30,28 @@ funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
 
 - **Lezione 4** (22/11/2022 h 12:00): Gli oggetti in Python | [slides](slides/Lezione4.pdf)
 
-- **Lezione 5**): Le eccezioni ed il flusso try-except
+- **Lezione 5** (24/11/2022): Le eccezioni ed il flusso try-except
  | [slides](slides/Lezione5.pdf)   
 
-- **Lezione 6**: Controllo degli input e sanitizzazione
+- **Lezione 6** (29/11/2022): Controllo degli input e sanitizzazione
  | [slides](slides/Lezione6.pdf)
 
-- **Lezione 7**: Testing e unit tests
+- **Lezione 7** (01/12/2022): Testing e unit tests
  | [slides](slides/Lezione7.pdf)
 
-- **Lezione 8**: Lavorare veramente 1: creiamo un modello
+- **Lezione 8** (06/12/2022): Lavorare veramente 1: creiamo un modello
  | [slides](slides/Lezione8.pdf)
 
-- **Lezione 9**: Lavorare veramente 2: fittiamo un modello
+- **Lezione 9** (08/12/2022): Lavorare veramente 2: fittiamo un modello
  | [slides](slides/Lezione9.pdf)
 
-- **Lezione 10**: Lavorare veramente 3: valutiamo un modello
+- **Lezione 10** (13/12/2022): Lavorare veramente 3: valutiamo un modello
  | [slides](slides/Lezione10.pdf)
  
-- **Lezione 11** (data da definire): prima esercitazione
+- **Lezione 11** (15/12/2022 - da confermare): prima esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub)
 
-- **Lezione 12** (data da definire): seconda esercitazione
+- **Lezione 12** (20/12/2022 - da confermare): seconda esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vRt09wouXGP4ECVPbMIT7FGzzYAx6T37Pil8KG4pSMpcYQeHAl_b9x3rsax7jH0D3M8Ol9R05C8xY_3/pub)
 
 ## Modalità di esame
