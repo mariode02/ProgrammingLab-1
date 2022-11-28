@@ -31,7 +31,7 @@ funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
 - **Lezione 4** (22/11/2022 h 12:00): Gli oggetti in Python | [slides](slides/Lezione4.pdf)
 
 - **Lezione 5** (24/11/2022): Le eccezioni ed il flusso try-except
- | [slides](slides/Lezione5.pdf)   
+ | [slides](slides/Lezione5.pdf) | [soluzione](soluzioni/lezione5)
 
 - **Lezione 6** (29/11/2022): Controllo degli input e sanitizzazione
  | [slides](slides/Lezione6.pdf)
