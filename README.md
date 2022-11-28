@@ -4,13 +4,13 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 
 ## Informazioni
-**Docente:** Stefano Alberto Russo [stefanoalberto.russo@phd.units.it](stefanoalberto.russo@phd.units.it)
+**Docente:** Stefano Alberto Russo [stefanoalberto.russo@phd.units.it](mailto:stefanoalberto.russo@phd.units.it)
 
 **Aula ed orario:** Martedì 12-14, Giovedì 13-15, aula Morin 2a.
 
 **Esame**: compito per casa con qualche giorno a disposizione e discussione all' orale
 
-**Aiuto:** La modalità principale è chiedere ai tutor: [lucrezia.valeriani@phd.units.it](lucrezia.valeriani@phd.units.it) e [valentina.blasone@phd.units.it](valentina.blasone@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
+**Aiuto:** La modalità principale è chiedere ai tutor: [lucrezia.valeriani@phd.units.it](mailto:lucrezia.valeriani@phd.units.it) e [mailtovalentina.blasone@phd.units.it](valentina.blasone@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
 **Materiale:** Ci sono le [dispense](files/DispenseLabProg.pdf) (ancora in versione bozza) e ci sono le slides di lezione, che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
@@ -60,7 +60,7 @@ La modalità di esame è la seguente:
 
 1. Qualche giorno prima dell'appello verrà pubblicato sul sito un compito per casa, che sarà simile a quelli visti nelle esercitaziomi ma più lungo e complicato. Potrete svolgerlo con tutti gli strumenti di supporto che vorrete (libri, internet etc.) ma se ve lo fate fare da qualcuno poi tranquilli che all'orale casca il palco. In genere si vede subito se non avete scritto voi il vostro codice.
 
-2. Il giorno dell'esame, il vostro codice verrà sottoposto a testing automatico (tramite unit-testing) e poi discusso assieme. **La consegna dell'esame deve avvenire tassativamente entro l'ora di inizio dell'appello orale**, e può avvenire in due modi. In entrambi dovete mandare una mail a stefano.russo@gmail.com, dal vostro indirizzo email universitario, e potete:
+2. Il giorno dell'esame, il vostro codice verrà sottoposto a testing automatico (tramite unit-testing) e poi discusso assieme. **La consegna dell'esame deve avvenire tassativamente entro l'ora di inizio dell'appello orale**, e può avvenire in due modi. In entrambi dovete mandare una mail a [stefanoalberto.russo@phd.units.it](mailto:stefanoalberto.russo@phd.units.it), dal vostro indirizzo email universitario, e potete:
 
     a. allegare lo script esame.py, oppure
 	
@@ -76,7 +76,7 @@ La modalità di esame è la seguente:
 
 ***Nota 2:*** per mandare il codice come link a repository GitHub con hash, potete avere accesso a questo tipo di link cliccando su `commits`, che vi porterà alla lista di commit del vostro repository, e poi su `<>` per visionare il codice ad un particolare punto nella storia (cioè ad uno specifico hash). A questo punto cliccate sul file (ad esempio `esame.py`), e nella barra di navigazione del Browser avete ora un'URL al file contentente anche l'hash di quella specifica versione. Dovete mandare questo.
 
-***Nota 3*** il file `esame.py` non deve includere i vostri esempi o prove e tantomento richieste di input da parte dell'utente, ma solo ed esclusivamente quello che viene chiesto dal testo (in genere una classe, una funzione ed una eccezione).
+***Nota 3*** il file `esame.py` non deve includere i vostri esempi o prove e tantomeno richieste di input da parte dell'utente, ma solo ed esclusivamente quello che viene chiesto dal testo (in genere una classe, una funzione ed una eccezione).
 
 
 
