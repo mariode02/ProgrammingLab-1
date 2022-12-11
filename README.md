@@ -16,6 +16,10 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **11/12/2022**: La lezione di Martedì 20 è spostata a Mercoledì 21 dalla 11:00 alle 12:00
+
+ - **11/12/2022**: Primo foglio esercizi (opzionali): [foglio1_esercizi.pdf](files/foglio1_esercizi.pdf)
+
  - **15/11/2022**: Aggiunte le [dispense](files/DispenseLabProg.pdf) in versione bozza (verranno man mano sistemate via per il corso)
 
 
