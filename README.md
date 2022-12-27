@@ -16,11 +16,15 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
- - **11/12/2022**: La lezione di Martedì 20 è spostata a Mercoledì 21 dalla 11:00 alle 12:00
+ - **28/12/2022**: L'ultima lezione verrà recuperata il 10 Gennaio (dalle 12:00 alle 14:00), le due esercitazioni d'esame invece si terranno l'11 (dalle 12:00 alle 14:00) ed il 13 dalle 11:00 alle 13:00).
 
- - **11/12/2022**: Primo foglio esercizi (opzionali): [foglio1_esercizi.pdf](files/foglio1_esercizi.pdf)
+ - **20/12/2022** la lezione di Mercoledì 21 è stata cancellata.
 
- - **15/11/2022**: Aggiunte le [dispense](files/DispenseLabProg.pdf) in versione bozza (verranno man mano sistemate via per il corso)
+ - **11/12/2022**: La lezione di Martedì 20 è spostata a Mercoledì 21 dalla 11:00 alle 12:00.
+
+ - **11/12/2022**: Primo foglio esercizi (opzionali): [foglio1_esercizi.pdf](files/foglio1_esercizi.pdf).
+
+ - **15/11/2022**: Aggiunte le [dispense](files/DispenseLabProg.pdf) in versione bozza (verranno man mano sistemate via per il corso).
 
 
 ## Lezioni e slides
@@ -49,13 +53,13 @@ funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
 - **Lezione 9** (13/12/2022): Lavorare veramente 2: fittiamo un modello
  | [slides](slides/Lezione9.pdf)
 
-- **Lezione 10** (21/12/2022): Lavorare veramente 3: valutiamo un modello
+- **Lezione 10** (10/01/2023): Lavorare veramente 3: valutiamo un modello
  | [slides](slides/Lezione10.pdf)
  
-- **Lezione 11** (10/01/2023): prima esercitazione
+- **Lezione 11** (11/01/2023): prima esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub)
 
-- **Lezione 12** (12/01/2023): seconda esercitazione
+- **Lezione 12** (13/01/2023): seconda esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vRt09wouXGP4ECVPbMIT7FGzzYAx6T37Pil8KG4pSMpcYQeHAl_b9x3rsax7jH0D3M8Ol9R05C8xY_3/pub)
 
 ## Modalità di esame
