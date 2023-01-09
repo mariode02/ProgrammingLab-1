@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **09/01/2023**: Fissati gli appelli: il 03/02/2023 alle 11:00 e il 24/02/2023 alle 11:00.
+
  - **28/12/2022**: L'ultima lezione verrà recuperata il 10 Gennaio (dalle 12:00 alle 14:00), le due esercitazioni d'esame invece si terranno l'11 (dalle 12:00 alle 14:00) ed il 13 dalle 11:00 alle 13:00).
 
  - **20/12/2022** la lezione di Mercoledì 21 è stata cancellata.
