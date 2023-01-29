@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+
+
  - **22/01/2023** Secondo foglio esercizi (opzionali): [foglio2_esercizi.pdf](files/foglio2_esercizi.pdf).
 
  - **09/01/2023**: Fissati gli appelli: il 03/02/2023 alle 11:00 e il 24/02/2023 alle 11:00.
@@ -58,7 +60,7 @@ funzioni, moduli, be pythonic | [slides](slides/Lezione2.pdf)
  | [slides](slides/Lezione9.pdf)
 
 - **Lezione 10** (10/01/2023): Lavorare veramente 3: valutiamo un modello
- | [slides](slides/Lezione10.pdf)
+ | [slides](slides/Lezione10.pdf) | [soluzione](soluzioni/lezione10)
  
 - **Lezione 11** (11/01/2023): prima esercitazione
  | [compito](https://docs.google.com/document/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub)
