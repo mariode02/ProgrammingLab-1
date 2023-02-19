@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **19/02/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vTPV9gcHH-snvVDLEOZ9gKAObe-2vTKTkaF595LDVKupP2Ror75TxQ8HWxoo5nLabA-w7Lel1nCJBcL/pub) del secondo appello d'esame del 24/02/2023.
+
  - **29/01/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vQlmC1U5UROiUoXDz2Oerb_3b64RM4qwLEBeR4Wp3KlFw8U4IHRJB1rMczm_brkeJU5CVMmH0uC_TC0/pub) del primo appello d'esame del 03/02/2023.
 
  - **22/01/2023** Secondo foglio esercizi (opzionali): [foglio2_esercizi.pdf](files/foglio2_esercizi.pdf).
