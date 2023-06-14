@@ -16,13 +16,17 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **14/06/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vS1USwtqwJ1JqgE0rMwaQ7-Jz5LsHmokZQ_gMQ0LO687lH7BlqkLF9kExeBmqOOruPpqwqCU_dT1BoV/pub) dell' appello d'esame estivo del 20/06/2023.
+
+ - **10/05/2023**: Fissati gli appelli estivo e autunnale: il 20/06/2023 alle 11:00 e il 19/09/2023 alle 11:00, entrambi in aula Morin (2a) H2bis.
+
  - **19/02/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vTPV9gcHH-snvVDLEOZ9gKAObe-2vTKTkaF595LDVKupP2Ror75TxQ8HWxoo5nLabA-w7Lel1nCJBcL/pub) del secondo appello d'esame del 24/02/2023.
 
  - **29/01/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vQlmC1U5UROiUoXDz2Oerb_3b64RM4qwLEBeR4Wp3KlFw8U4IHRJB1rMczm_brkeJU5CVMmH0uC_TC0/pub) del primo appello d'esame del 03/02/2023.
 
  - **22/01/2023** Secondo foglio esercizi (opzionali): [foglio2_esercizi.pdf](files/foglio2_esercizi.pdf).
 
- - **09/01/2023**: Fissati gli appelli: il 03/02/2023 alle 11:00 e il 24/02/2023 alle 11:00.
+ - **09/01/2023**: Fissati gli appelli invernali: il 03/02/2023 alle 11:00 e il 24/02/2023 alle 11:00.
 
  - **28/12/2022**: L'ultima lezione verrà recuperata il 10 Gennaio (dalle 12:00 alle 14:00), le due esercitazioni d'esame invece si terranno l'11 (dalle 12:00 alle 14:00) ed il 13 dalle 11:00 alle 13:00).
 
