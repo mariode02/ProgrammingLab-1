@@ -58,10 +58,10 @@ def compute_avg_monthly_difference(time_series, first_year, last_year):
     # Creazione di un dizionario vuoto per contenere i dati trasformati
     time_series_dict = {}
 
-    # Iterazione su ogni elemento dell'array originale
+    # Iterazione su ogni elemento della lista di liste originale
     for item in time_series:
         # Controlla se l'elemento ha un formato valido
-        if not isinstance(item, (list, tuple)) or len(item) != 2:
+        if not isinstance(item, list) or len(item) != 2:
             raise ExamException("Formato time_series non valido")
 
         # Estrazione di anno, mese e valore da ogni elemento
@@ -114,9 +114,7 @@ def compute_avg_monthly_difference(time_series, first_year, last_year):
                 # Se i dati per il mese sono disponibili in entrambi gli anni
                 if month < len(current_year_data) and month < len(next_year_data):
                     # Se il valore è None, aggiungi 0
-                    if current_year_data[month] is None or next_year_data[month] is None:
-                        sum_diffs[month] += 0 # sum_diff rimane invariato
-                    else:
+                    if current_year_data[month] is not None or next_year_data[month] is not None:
                         # Calcola la differenza per ogni mese
                         # e aggiungilo a sum_diffs
                         sum_diffs[month] += next_year_data[month] - current_year_data[month]
@@ -125,7 +123,13 @@ def compute_avg_monthly_difference(time_series, first_year, last_year):
                     month_counts[month] += 1
     
     if number_of_years == 2:  # Caso specifico per intervallo di due anni
-        avg_diffs = [round(sum_diffs[i] / month_counts[i], 2) if month_counts[i] > 0 else 0 for i in range(months)]
+        avg_diffs = []
+        for i in range(months):
+            # Se non abbiamo misurazioni per il mese, aggiungi 0
+            if month_counts[i] > 0:
+                avg_diffs.append(round(sum_diffs[i] / month_counts[i], 2))
+            else:
+                avg_diffs.append(0)
     else:  # Caso per intervallo di più di due anni
         avg_diffs = []
         for i in range(months):
@@ -169,6 +173,7 @@ class CSVTimeSeriesFile:
         try:
             with open(self.name, 'r') as my_file:
                 my_file.readline()
+
         except Exception as e:
             self.can_read = False
             raise ExamException(f'Errore nell\'apertura del file: "{e}"')
